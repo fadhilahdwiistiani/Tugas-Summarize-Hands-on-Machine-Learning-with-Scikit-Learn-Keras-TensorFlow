@@ -17,6 +17,7 @@ It teaches:
 - Deep Learning with Keras & TensorFlow
 - Production and scaling strategies
 
+
 Perfect for:
 - Students learning ML seriously
 - Data Scientists
